@@ -128,7 +128,7 @@ export default function RootLayout({
               </section>
             </section>
           </Card>
-          <Card className="min-w-[340px] flex flex-col">
+          <Card className="w-full min-w-[340px] flex flex-col">
             <Nav />
             <section className="px-8 py-4">
               {children}
